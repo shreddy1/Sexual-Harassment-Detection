@@ -1,0 +1,4 @@
+We had two files that were too large to github.
+please open the link and load everyfile in the 
+assets folder to your running directory (not the folder, just the files inside.) 
+https://drive.google.com/drive/folders/1FmnXptNOGrUZGJH23WSJdl2hXdES7p1I?usp=sharing
